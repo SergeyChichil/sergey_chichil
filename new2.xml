@@ -5,4 +5,8 @@
 	<Pets>0</Pets>
 	<Age>28</Age>
 	<Payroll>2000</Payroll>
+	<Movie>Остров Проклятых</Movie>
+	<Serial>Rick and Morty</Serial>
+	<Pets>no pets</Pets>
+	<Country>Canada</Country>
 </PersonalInfo>
