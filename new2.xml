@@ -1,4 +1,8 @@
-фильм (остров проклятых)
-еда (плов)
-время года (зима)
-страна (канада)
+<?xml version="1.0" encoding="UTF-8"?>
+<PersonalInfo>
+	<FirstName>Sergey</FirstName>
+	<LastName>Chichil</LastName>
+	<Pets>0</Pets>
+	<Age>28</Age>
+	<Payroll>2000</Payroll>
+</PersonalInfo>
