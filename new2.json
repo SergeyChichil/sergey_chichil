@@ -1,9 +1,12 @@
-1) Chichil Sergey Alexandrovich
-2) 28 y.o
-3) no pets
-4) 500 - 2000$
-
-фильм (остров проклятых)
-еда (плов)
-время года (зима)
-страна (канада)
+{
+	"FileID": 1,
+	"FirstName": "Sergey",
+	"LastName": "Chichil",
+	"Age": "28",
+	"Pets": "0"
+	"Payrpoll": "2000"
+	"Movie": "Остров проклятых",
+	"Serial": "Rick and Morty",
+	"Pets": "no pets",
+	"Country": "Canada"
+}
