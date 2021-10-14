@@ -1,0 +1,15 @@
+1. git branch name
+2.git push -u origin name
+3.git checkout Bugreports; touch bug.txt; vim bug.txt
+4.git push
+5.git merge
+6.git push --set-upstream origin main (на данном этапе произошла проблема с которой я разбирался около двух часов, после её решения получилось)
+7.git checkout CheckList; touch check.txt; vim check.txt
+8.git push
+9.в ветке чеклист появился знак что ветка открыта для мейна
+10. (невыполнено потому что аккаунт под флагом)
+
+(на момент исполнения 4ого и 8ого задания произошла некоторая ошибка,
+ ввиду чего команды были изменены на
+git push --set-upstream origin CheckList и
+git push --set-upstream origin BagReports
